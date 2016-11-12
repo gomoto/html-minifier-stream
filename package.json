@@ -1,0 +1,21 @@
+{
+  "name": "html-minifier-stream",
+  "version": "0.0.0",
+  "description": "Stream interface for html-minifier",
+  "main": "index.js",
+  "scripts": {
+    "version": "git add -A",
+    "postversion": "git push origin head && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomoto/html-minifier-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gomoto/html-minifier-stream/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-minifier": "^3.1.1"
+  }
+}

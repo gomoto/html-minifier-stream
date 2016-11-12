@@ -1,6 +1,6 @@
 {
   "name": "html-minifier-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stream interface for html-minifier",
   "main": "index.js",
   "scripts": {

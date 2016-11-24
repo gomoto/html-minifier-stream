@@ -16,7 +16,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "html-minifier": "^3.1.1",
     "readable-stream": "^2.2.1"
+  },
+  "devDependencies": {
+    "html-minifier": "^3.2.2"
+  },
+  "peerDependencies": {
+    "html-minifier": "3.x"
   }
 }
